@@ -37,6 +37,8 @@ Models were evaluated using 10-fold cross-validation, followed by hyperparameter
 
 Optimised models were then evaluated on a held-out test set to assess generalisation performance.
 
+Logistic Regression achieved approximately 80% test accuracy after tuning, while SVM provided comparable performance with different margin characteristics.
+
 ---
 
 ## Unsupervised Learning
